@@ -1,0 +1,15 @@
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\bin\Debug\net6.0\StudentDetailsProgram.exe
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\bin\Debug\net6.0\StudentDetailsProgram.deps.json
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\bin\Debug\net6.0\StudentDetailsProgram.runtimeconfig.json
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\bin\Debug\net6.0\StudentDetailsProgram.dll
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\bin\Debug\net6.0\StudentDetailsProgram.pdb
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\obj\Debug\net6.0\StudentDetailsProgram.csproj.AssemblyReference.cache
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\obj\Debug\net6.0\StudentDetailsProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\obj\Debug\net6.0\StudentDetailsProgram.AssemblyInfoInputs.cache
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\obj\Debug\net6.0\StudentDetailsProgram.AssemblyInfo.cs
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\obj\Debug\net6.0\StudentDetailsProgram.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\obj\Debug\net6.0\StudentDetailsProgram.dll
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\obj\Debug\net6.0\refint\StudentDetailsProgram.dll
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\obj\Debug\net6.0\StudentDetailsProgram.pdb
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\obj\Debug\net6.0\StudentDetailsProgram.genruntimeconfig.cache
+E:\Dotnet\27July\StudentDetailsProgram\StudentDetailsProgram\obj\Debug\net6.0\ref\StudentDetailsProgram.dll

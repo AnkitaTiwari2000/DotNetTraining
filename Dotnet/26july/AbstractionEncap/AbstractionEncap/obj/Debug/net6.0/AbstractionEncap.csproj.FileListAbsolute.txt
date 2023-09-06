@@ -1,0 +1,15 @@
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\obj\Debug\net6.0\AbstractionEncap.csproj.AssemblyReference.cache
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\obj\Debug\net6.0\AbstractionEncap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\obj\Debug\net6.0\AbstractionEncap.AssemblyInfoInputs.cache
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\obj\Debug\net6.0\AbstractionEncap.AssemblyInfo.cs
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\obj\Debug\net6.0\AbstractionEncap.csproj.CoreCompileInputs.cache
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\bin\Debug\net6.0\AbstractionEncap.exe
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\bin\Debug\net6.0\AbstractionEncap.deps.json
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\bin\Debug\net6.0\AbstractionEncap.runtimeconfig.json
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\bin\Debug\net6.0\AbstractionEncap.dll
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\bin\Debug\net6.0\AbstractionEncap.pdb
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\obj\Debug\net6.0\AbstractionEncap.dll
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\obj\Debug\net6.0\refint\AbstractionEncap.dll
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\obj\Debug\net6.0\AbstractionEncap.pdb
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\obj\Debug\net6.0\AbstractionEncap.genruntimeconfig.cache
+E:\Dotnet\26july\AbstractionEncap\AbstractionEncap\obj\Debug\net6.0\ref\AbstractionEncap.dll

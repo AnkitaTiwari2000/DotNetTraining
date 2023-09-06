@@ -1,0 +1,15 @@
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\bin\Debug\net6.0\ExtensionMethodE.exe
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\bin\Debug\net6.0\ExtensionMethodE.deps.json
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\bin\Debug\net6.0\ExtensionMethodE.runtimeconfig.json
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\bin\Debug\net6.0\ExtensionMethodE.dll
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\bin\Debug\net6.0\ExtensionMethodE.pdb
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\obj\Debug\net6.0\ExtensionMethodE.csproj.AssemblyReference.cache
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\obj\Debug\net6.0\ExtensionMethodE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\obj\Debug\net6.0\ExtensionMethodE.AssemblyInfoInputs.cache
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\obj\Debug\net6.0\ExtensionMethodE.AssemblyInfo.cs
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\obj\Debug\net6.0\ExtensionMethodE.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\obj\Debug\net6.0\ExtensionMethodE.dll
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\obj\Debug\net6.0\refint\ExtensionMethodE.dll
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\obj\Debug\net6.0\ExtensionMethodE.pdb
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\obj\Debug\net6.0\ExtensionMethodE.genruntimeconfig.cache
+E:\Dotnet\27July\ExtensionMethodE\ExtensionMethodE\obj\Debug\net6.0\ref\ExtensionMethodE.dll

@@ -1,0 +1,15 @@
+E:\Dotnet\27July\Deligatws\Deligatws\obj\Debug\net6.0\Deligatws.csproj.AssemblyReference.cache
+E:\Dotnet\27July\Deligatws\Deligatws\obj\Debug\net6.0\Deligatws.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\Deligatws\Deligatws\obj\Debug\net6.0\Deligatws.AssemblyInfoInputs.cache
+E:\Dotnet\27July\Deligatws\Deligatws\obj\Debug\net6.0\Deligatws.AssemblyInfo.cs
+E:\Dotnet\27July\Deligatws\Deligatws\obj\Debug\net6.0\Deligatws.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\Deligatws\Deligatws\bin\Debug\net6.0\Deligatws.exe
+E:\Dotnet\27July\Deligatws\Deligatws\bin\Debug\net6.0\Deligatws.deps.json
+E:\Dotnet\27July\Deligatws\Deligatws\bin\Debug\net6.0\Deligatws.runtimeconfig.json
+E:\Dotnet\27July\Deligatws\Deligatws\bin\Debug\net6.0\Deligatws.dll
+E:\Dotnet\27July\Deligatws\Deligatws\bin\Debug\net6.0\Deligatws.pdb
+E:\Dotnet\27July\Deligatws\Deligatws\obj\Debug\net6.0\Deligatws.dll
+E:\Dotnet\27July\Deligatws\Deligatws\obj\Debug\net6.0\refint\Deligatws.dll
+E:\Dotnet\27July\Deligatws\Deligatws\obj\Debug\net6.0\Deligatws.pdb
+E:\Dotnet\27July\Deligatws\Deligatws\obj\Debug\net6.0\Deligatws.genruntimeconfig.cache
+E:\Dotnet\27July\Deligatws\Deligatws\obj\Debug\net6.0\ref\Deligatws.dll

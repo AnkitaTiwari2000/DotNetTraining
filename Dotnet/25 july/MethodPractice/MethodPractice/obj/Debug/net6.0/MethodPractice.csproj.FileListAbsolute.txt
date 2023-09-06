@@ -1,0 +1,15 @@
+E:\Dotnet\25 july\MethodPractice\MethodPractice\bin\Debug\net6.0\MethodPractice.exe
+E:\Dotnet\25 july\MethodPractice\MethodPractice\bin\Debug\net6.0\MethodPractice.deps.json
+E:\Dotnet\25 july\MethodPractice\MethodPractice\bin\Debug\net6.0\MethodPractice.runtimeconfig.json
+E:\Dotnet\25 july\MethodPractice\MethodPractice\bin\Debug\net6.0\MethodPractice.dll
+E:\Dotnet\25 july\MethodPractice\MethodPractice\bin\Debug\net6.0\MethodPractice.pdb
+E:\Dotnet\25 july\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.csproj.AssemblyReference.cache
+E:\Dotnet\25 july\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\25 july\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.AssemblyInfoInputs.cache
+E:\Dotnet\25 july\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.AssemblyInfo.cs
+E:\Dotnet\25 july\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.csproj.CoreCompileInputs.cache
+E:\Dotnet\25 july\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.dll
+E:\Dotnet\25 july\MethodPractice\MethodPractice\obj\Debug\net6.0\refint\MethodPractice.dll
+E:\Dotnet\25 july\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.pdb
+E:\Dotnet\25 july\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.genruntimeconfig.cache
+E:\Dotnet\25 july\MethodPractice\MethodPractice\obj\Debug\net6.0\ref\MethodPractice.dll

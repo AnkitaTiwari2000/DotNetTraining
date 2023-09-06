@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<script src="~/js/code.jquery.com_jquery-3.3.0.min.js"></script>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="panel panel-primary">
+    <div class="panel heading">
+        GET API Data
+    </div>
+    <div class="panel-body">
+        <table class="table table-bordered" id="Table">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+Manager.GetAllProduct();
+})  
+
+var Manager={
+    GetAllProduct:function(){
+        var obj=" ";
+        var serviceUrl="https://localhost:7240/api/products/GetAll";
+        window.Manager.GetAPI(serviceUrl,onSucess,onFailed);
+        function onSucess(jsonData){
+           
+            obj=jsonData;
+            $.each (jsonData,function(i,item) {
+                var rows="<tr>"+
+                "<td id='Id'>"+item.ProductId+"<td>"+
+                 "<td id='Name'>"+item.ProductName+"<td>"+
+                        "<td id='Price'>" + item.Price + "<td>" +"<tr>";
+                        $('#Table').append(rows);
+            });
+        }
+       function onFailed(error){
+           window.alert(error.statusText);
+       }
+        return obj;
+        },
+    
+    GetAPI:function(serviceUrl,sucessCallback,errorCallback){
+        $.ajax({
+            type:"GET",
+            url:serviceUrl,
+            dataType:"json",
+            sucess:sucessCallback,
+            error:errorCallback
+        });
+    },
+}
+</script>
+

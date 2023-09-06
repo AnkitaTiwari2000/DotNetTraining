@@ -1,0 +1,15 @@
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\bin\Debug\net6.0\DictonaryDemo.exe
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\bin\Debug\net6.0\DictonaryDemo.deps.json
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\bin\Debug\net6.0\DictonaryDemo.runtimeconfig.json
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\bin\Debug\net6.0\DictonaryDemo.dll
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\bin\Debug\net6.0\DictonaryDemo.pdb
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\obj\Debug\net6.0\DictonaryDemo.csproj.AssemblyReference.cache
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\obj\Debug\net6.0\DictonaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\obj\Debug\net6.0\DictonaryDemo.AssemblyInfoInputs.cache
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\obj\Debug\net6.0\DictonaryDemo.AssemblyInfo.cs
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\obj\Debug\net6.0\DictonaryDemo.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\obj\Debug\net6.0\DictonaryDemo.dll
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\obj\Debug\net6.0\refint\DictonaryDemo.dll
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\obj\Debug\net6.0\DictonaryDemo.pdb
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\obj\Debug\net6.0\DictonaryDemo.genruntimeconfig.cache
+E:\Dotnet\27July\ListAllOperations\ListAllOperations\obj\Debug\net6.0\ref\DictonaryDemo.dll

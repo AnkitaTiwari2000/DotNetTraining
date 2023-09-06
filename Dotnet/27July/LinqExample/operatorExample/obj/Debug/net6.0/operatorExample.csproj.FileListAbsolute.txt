@@ -1,0 +1,15 @@
+E:\Dotnet\27July\LinqExample\operatorExample\bin\Debug\net6.0\operatorExample.exe
+E:\Dotnet\27July\LinqExample\operatorExample\bin\Debug\net6.0\operatorExample.deps.json
+E:\Dotnet\27July\LinqExample\operatorExample\bin\Debug\net6.0\operatorExample.runtimeconfig.json
+E:\Dotnet\27July\LinqExample\operatorExample\bin\Debug\net6.0\operatorExample.dll
+E:\Dotnet\27July\LinqExample\operatorExample\bin\Debug\net6.0\operatorExample.pdb
+E:\Dotnet\27July\LinqExample\operatorExample\obj\Debug\net6.0\operatorExample.csproj.AssemblyReference.cache
+E:\Dotnet\27July\LinqExample\operatorExample\obj\Debug\net6.0\operatorExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\LinqExample\operatorExample\obj\Debug\net6.0\operatorExample.AssemblyInfoInputs.cache
+E:\Dotnet\27July\LinqExample\operatorExample\obj\Debug\net6.0\operatorExample.AssemblyInfo.cs
+E:\Dotnet\27July\LinqExample\operatorExample\obj\Debug\net6.0\operatorExample.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\LinqExample\operatorExample\obj\Debug\net6.0\operatorExample.dll
+E:\Dotnet\27July\LinqExample\operatorExample\obj\Debug\net6.0\refint\operatorExample.dll
+E:\Dotnet\27July\LinqExample\operatorExample\obj\Debug\net6.0\operatorExample.pdb
+E:\Dotnet\27July\LinqExample\operatorExample\obj\Debug\net6.0\operatorExample.genruntimeconfig.cache
+E:\Dotnet\27July\LinqExample\operatorExample\obj\Debug\net6.0\ref\operatorExample.dll

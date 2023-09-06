@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewData["Title"] = "AddProduct";
+}
+
+<h1>AddProduct</h1>
+
+<script src="/lib/jquery/dist/jquery.js"></script>
+<form>
+
+    <input type="text" id="psmId" placeholder="id" />
+    <input type="text" id="psmName" placeholder="Name" />
+    <input type="text" id="psmDescr" placeholder="Descr" />
+    <input type="text" id="psmPrice" placeholder="Price" />
+
+    <input type="button" value="send data" onclick="BtnClick()" />
+</form>
+<script>
+    function BtnClick() {
+        var id = $("psmId").val();
+        var name = $("psmName").val();
+        var Descr = $("psmDescr").val();
+        var Price = $("psmPrice").val();
+
+        var obj = {
+            Id: id,
+            Name: name,
+            Descr: Descr,
+            Price: Price
+        }
+        SubmitForm();
+
+    }
+    function SubmitForm(obj) {
+        $.ajax({
+            url: "/Home/AddProduct",
+
+            method: 'post',
+            data: obj,
+            success: function (data) {
+
+                alert(data);
+            },
+            error: function (ex) {
+                console.error(ex);
+            }
+        });
+    }
+</script>

@@ -1,0 +1,15 @@
+E:\Dotnet\27July\LinqExample\ELements\bin\Debug\net6.0\ELements.exe
+E:\Dotnet\27July\LinqExample\ELements\bin\Debug\net6.0\ELements.deps.json
+E:\Dotnet\27July\LinqExample\ELements\bin\Debug\net6.0\ELements.runtimeconfig.json
+E:\Dotnet\27July\LinqExample\ELements\bin\Debug\net6.0\ELements.dll
+E:\Dotnet\27July\LinqExample\ELements\bin\Debug\net6.0\ELements.pdb
+E:\Dotnet\27July\LinqExample\ELements\obj\Debug\net6.0\ELements.csproj.AssemblyReference.cache
+E:\Dotnet\27July\LinqExample\ELements\obj\Debug\net6.0\ELements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\LinqExample\ELements\obj\Debug\net6.0\ELements.AssemblyInfoInputs.cache
+E:\Dotnet\27July\LinqExample\ELements\obj\Debug\net6.0\ELements.AssemblyInfo.cs
+E:\Dotnet\27July\LinqExample\ELements\obj\Debug\net6.0\ELements.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\LinqExample\ELements\obj\Debug\net6.0\ELements.dll
+E:\Dotnet\27July\LinqExample\ELements\obj\Debug\net6.0\refint\ELements.dll
+E:\Dotnet\27July\LinqExample\ELements\obj\Debug\net6.0\ELements.pdb
+E:\Dotnet\27July\LinqExample\ELements\obj\Debug\net6.0\ELements.genruntimeconfig.cache
+E:\Dotnet\27July\LinqExample\ELements\obj\Debug\net6.0\ref\ELements.dll

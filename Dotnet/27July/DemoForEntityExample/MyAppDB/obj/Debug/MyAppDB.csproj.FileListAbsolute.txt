@@ -1,0 +1,14 @@
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\bin\Debug\MyAppDB.dll.config
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\bin\Debug\MyAppDB.dll
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\bin\Debug\MyAppDB.pdb
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\bin\Debug\EntityFramework.dll
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\bin\Debug\EntityFramework.xml
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\obj\Debug\MyAppDB.csproj.AssemblyReference.cache
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\obj\Debug\MyAppDB.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\obj\Debug\MyAppDB.csproj.CopyComplete
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\obj\Debug\MyAppDB.dll
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\obj\Debug\MyAppDB.pdb
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\bin\Debug\MyApp.Model.dll
+E:\Dotnet\27July\DemoForEntityExample\MyAppDB\bin\Debug\MyApp.Model.pdb

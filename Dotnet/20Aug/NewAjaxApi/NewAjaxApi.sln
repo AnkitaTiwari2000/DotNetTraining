@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewAjaxApi", "NewAjaxApi\NewAjaxApi.csproj", "{63DDAA44-F3E6-408C-9013-B556BF3612C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserManageMentApi", "UserManageMentApi\UserManageMentApi.csproj", "{FF10C8E4-3F62-4250-91F4-1A6F083B4F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63DDAA44-F3E6-408C-9013-B556BF3612C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DDAA44-F3E6-408C-9013-B556BF3612C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DDAA44-F3E6-408C-9013-B556BF3612C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DDAA44-F3E6-408C-9013-B556BF3612C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF10C8E4-3F62-4250-91F4-1A6F083B4F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF10C8E4-3F62-4250-91F4-1A6F083B4F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF10C8E4-3F62-4250-91F4-1A6F083B4F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF10C8E4-3F62-4250-91F4-1A6F083B4F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59B2A811-273C-43CE-A409-E6FCFC1D5CC4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\bin\Debug\net6.0\ArrayProgram.exe
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\bin\Debug\net6.0\ArrayProgram.deps.json
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\bin\Debug\net6.0\ArrayProgram.runtimeconfig.json
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\bin\Debug\net6.0\ArrayProgram.dll
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\bin\Debug\net6.0\ArrayProgram.pdb
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.csproj.AssemblyReference.cache
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.AssemblyInfoInputs.cache
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.AssemblyInfo.cs
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.dll
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\obj\Debug\net6.0\refint\ArrayProgram.dll
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.pdb
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ArrayProgram.genruntimeconfig.cache
+E:\Dotnet\27July\ArrayProgram\ArrayProgram\obj\Debug\net6.0\ref\ArrayProgram.dll

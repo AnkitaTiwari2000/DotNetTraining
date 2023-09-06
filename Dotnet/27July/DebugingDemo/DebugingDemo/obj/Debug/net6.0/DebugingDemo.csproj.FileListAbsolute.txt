@@ -1,0 +1,15 @@
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\obj\Debug\net6.0\DebugingDemo.csproj.AssemblyReference.cache
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\obj\Debug\net6.0\DebugingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\obj\Debug\net6.0\DebugingDemo.AssemblyInfoInputs.cache
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\obj\Debug\net6.0\DebugingDemo.AssemblyInfo.cs
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\obj\Debug\net6.0\DebugingDemo.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\bin\Debug\net6.0\DebugingDemo.exe
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\bin\Debug\net6.0\DebugingDemo.deps.json
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\bin\Debug\net6.0\DebugingDemo.runtimeconfig.json
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\bin\Debug\net6.0\DebugingDemo.dll
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\bin\Debug\net6.0\DebugingDemo.pdb
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\obj\Debug\net6.0\DebugingDemo.dll
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\obj\Debug\net6.0\refint\DebugingDemo.dll
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\obj\Debug\net6.0\DebugingDemo.pdb
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\obj\Debug\net6.0\DebugingDemo.genruntimeconfig.cache
+E:\Dotnet\27July\DebugingDemo\DebugingDemo\obj\Debug\net6.0\ref\DebugingDemo.dll

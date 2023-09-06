@@ -1,0 +1,15 @@
+E:\Dotnet\25 july\Constructor\Constructor\bin\Debug\net6.0\Constructor.exe
+E:\Dotnet\25 july\Constructor\Constructor\bin\Debug\net6.0\Constructor.deps.json
+E:\Dotnet\25 july\Constructor\Constructor\bin\Debug\net6.0\Constructor.runtimeconfig.json
+E:\Dotnet\25 july\Constructor\Constructor\bin\Debug\net6.0\Constructor.dll
+E:\Dotnet\25 july\Constructor\Constructor\bin\Debug\net6.0\Constructor.pdb
+E:\Dotnet\25 july\Constructor\Constructor\obj\Debug\net6.0\Constructor.csproj.AssemblyReference.cache
+E:\Dotnet\25 july\Constructor\Constructor\obj\Debug\net6.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\25 july\Constructor\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfoInputs.cache
+E:\Dotnet\25 july\Constructor\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfo.cs
+E:\Dotnet\25 july\Constructor\Constructor\obj\Debug\net6.0\Constructor.csproj.CoreCompileInputs.cache
+E:\Dotnet\25 july\Constructor\Constructor\obj\Debug\net6.0\Constructor.dll
+E:\Dotnet\25 july\Constructor\Constructor\obj\Debug\net6.0\refint\Constructor.dll
+E:\Dotnet\25 july\Constructor\Constructor\obj\Debug\net6.0\Constructor.pdb
+E:\Dotnet\25 july\Constructor\Constructor\obj\Debug\net6.0\Constructor.genruntimeconfig.cache
+E:\Dotnet\25 july\Constructor\Constructor\obj\Debug\net6.0\ref\Constructor.dll

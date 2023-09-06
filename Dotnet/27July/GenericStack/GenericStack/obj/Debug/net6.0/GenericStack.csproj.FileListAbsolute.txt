@@ -1,0 +1,15 @@
+E:\Dotnet\27July\GenericStack\GenericStack\bin\Debug\net6.0\GenericStack.exe
+E:\Dotnet\27July\GenericStack\GenericStack\bin\Debug\net6.0\GenericStack.deps.json
+E:\Dotnet\27July\GenericStack\GenericStack\bin\Debug\net6.0\GenericStack.runtimeconfig.json
+E:\Dotnet\27July\GenericStack\GenericStack\bin\Debug\net6.0\GenericStack.dll
+E:\Dotnet\27July\GenericStack\GenericStack\bin\Debug\net6.0\GenericStack.pdb
+E:\Dotnet\27July\GenericStack\GenericStack\obj\Debug\net6.0\GenericStack.csproj.AssemblyReference.cache
+E:\Dotnet\27July\GenericStack\GenericStack\obj\Debug\net6.0\GenericStack.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\GenericStack\GenericStack\obj\Debug\net6.0\GenericStack.AssemblyInfoInputs.cache
+E:\Dotnet\27July\GenericStack\GenericStack\obj\Debug\net6.0\GenericStack.AssemblyInfo.cs
+E:\Dotnet\27July\GenericStack\GenericStack\obj\Debug\net6.0\GenericStack.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\GenericStack\GenericStack\obj\Debug\net6.0\GenericStack.dll
+E:\Dotnet\27July\GenericStack\GenericStack\obj\Debug\net6.0\refint\GenericStack.dll
+E:\Dotnet\27July\GenericStack\GenericStack\obj\Debug\net6.0\GenericStack.pdb
+E:\Dotnet\27July\GenericStack\GenericStack\obj\Debug\net6.0\GenericStack.genruntimeconfig.cache
+E:\Dotnet\27July\GenericStack\GenericStack\obj\Debug\net6.0\ref\GenericStack.dll

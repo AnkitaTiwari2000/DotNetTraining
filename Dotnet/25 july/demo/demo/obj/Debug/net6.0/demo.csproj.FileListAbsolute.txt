@@ -1,0 +1,15 @@
+E:\Dotnet\25 july\demo\demo\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+E:\Dotnet\25 july\demo\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\25 july\demo\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+E:\Dotnet\25 july\demo\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+E:\Dotnet\25 july\demo\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+E:\Dotnet\25 july\demo\demo\bin\Debug\net6.0\demo.deps.json
+E:\Dotnet\25 july\demo\demo\bin\Debug\net6.0\demo.dll
+E:\Dotnet\25 july\demo\demo\bin\Debug\net6.0\demo.pdb
+E:\Dotnet\25 july\demo\demo\obj\Debug\net6.0\demo.dll
+E:\Dotnet\25 july\demo\demo\obj\Debug\net6.0\refint\demo.dll
+E:\Dotnet\25 july\demo\demo\obj\Debug\net6.0\demo.pdb
+E:\Dotnet\25 july\demo\demo\obj\Debug\net6.0\ref\demo.dll
+E:\Dotnet\25 july\demo\demo\bin\Debug\net6.0\demo.exe
+E:\Dotnet\25 july\demo\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+E:\Dotnet\25 july\demo\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache

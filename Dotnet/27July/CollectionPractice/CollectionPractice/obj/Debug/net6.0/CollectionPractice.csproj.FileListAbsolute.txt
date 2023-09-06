@@ -1,0 +1,15 @@
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\obj\Debug\net6.0\CollectionPractice.csproj.AssemblyReference.cache
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\obj\Debug\net6.0\CollectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\obj\Debug\net6.0\CollectionPractice.AssemblyInfoInputs.cache
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\obj\Debug\net6.0\CollectionPractice.AssemblyInfo.cs
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\obj\Debug\net6.0\CollectionPractice.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\bin\Debug\net6.0\CollectionPractice.exe
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\bin\Debug\net6.0\CollectionPractice.deps.json
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\bin\Debug\net6.0\CollectionPractice.runtimeconfig.json
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\bin\Debug\net6.0\CollectionPractice.dll
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\bin\Debug\net6.0\CollectionPractice.pdb
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\obj\Debug\net6.0\CollectionPractice.dll
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\obj\Debug\net6.0\refint\CollectionPractice.dll
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\obj\Debug\net6.0\CollectionPractice.pdb
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\obj\Debug\net6.0\CollectionPractice.genruntimeconfig.cache
+E:\Dotnet\27July\CollectionPractice\CollectionPractice\obj\Debug\net6.0\ref\CollectionPractice.dll

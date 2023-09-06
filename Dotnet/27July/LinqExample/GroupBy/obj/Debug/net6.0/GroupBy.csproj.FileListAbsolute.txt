@@ -1,0 +1,15 @@
+E:\Dotnet\27July\LinqExample\GroupBy\bin\Debug\net6.0\GroupBy.exe
+E:\Dotnet\27July\LinqExample\GroupBy\bin\Debug\net6.0\GroupBy.deps.json
+E:\Dotnet\27July\LinqExample\GroupBy\bin\Debug\net6.0\GroupBy.runtimeconfig.json
+E:\Dotnet\27July\LinqExample\GroupBy\bin\Debug\net6.0\GroupBy.dll
+E:\Dotnet\27July\LinqExample\GroupBy\bin\Debug\net6.0\GroupBy.pdb
+E:\Dotnet\27July\LinqExample\GroupBy\obj\Debug\net6.0\GroupBy.csproj.AssemblyReference.cache
+E:\Dotnet\27July\LinqExample\GroupBy\obj\Debug\net6.0\GroupBy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\LinqExample\GroupBy\obj\Debug\net6.0\GroupBy.AssemblyInfoInputs.cache
+E:\Dotnet\27July\LinqExample\GroupBy\obj\Debug\net6.0\GroupBy.AssemblyInfo.cs
+E:\Dotnet\27July\LinqExample\GroupBy\obj\Debug\net6.0\GroupBy.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\LinqExample\GroupBy\obj\Debug\net6.0\GroupBy.dll
+E:\Dotnet\27July\LinqExample\GroupBy\obj\Debug\net6.0\refint\GroupBy.dll
+E:\Dotnet\27July\LinqExample\GroupBy\obj\Debug\net6.0\GroupBy.pdb
+E:\Dotnet\27July\LinqExample\GroupBy\obj\Debug\net6.0\GroupBy.genruntimeconfig.cache
+E:\Dotnet\27July\LinqExample\GroupBy\obj\Debug\net6.0\ref\GroupBy.dll

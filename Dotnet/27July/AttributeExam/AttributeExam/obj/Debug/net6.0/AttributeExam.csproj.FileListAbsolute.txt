@@ -1,0 +1,15 @@
+E:\Dotnet\27July\AttributeExam\AttributeExam\bin\Debug\net6.0\AttributeExam.exe
+E:\Dotnet\27July\AttributeExam\AttributeExam\bin\Debug\net6.0\AttributeExam.deps.json
+E:\Dotnet\27July\AttributeExam\AttributeExam\bin\Debug\net6.0\AttributeExam.runtimeconfig.json
+E:\Dotnet\27July\AttributeExam\AttributeExam\bin\Debug\net6.0\AttributeExam.dll
+E:\Dotnet\27July\AttributeExam\AttributeExam\bin\Debug\net6.0\AttributeExam.pdb
+E:\Dotnet\27July\AttributeExam\AttributeExam\obj\Debug\net6.0\AttributeExam.csproj.AssemblyReference.cache
+E:\Dotnet\27July\AttributeExam\AttributeExam\obj\Debug\net6.0\AttributeExam.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\AttributeExam\AttributeExam\obj\Debug\net6.0\AttributeExam.AssemblyInfoInputs.cache
+E:\Dotnet\27July\AttributeExam\AttributeExam\obj\Debug\net6.0\AttributeExam.AssemblyInfo.cs
+E:\Dotnet\27July\AttributeExam\AttributeExam\obj\Debug\net6.0\AttributeExam.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\AttributeExam\AttributeExam\obj\Debug\net6.0\AttributeExam.dll
+E:\Dotnet\27July\AttributeExam\AttributeExam\obj\Debug\net6.0\refint\AttributeExam.dll
+E:\Dotnet\27July\AttributeExam\AttributeExam\obj\Debug\net6.0\AttributeExam.pdb
+E:\Dotnet\27July\AttributeExam\AttributeExam\obj\Debug\net6.0\AttributeExam.genruntimeconfig.cache
+E:\Dotnet\27July\AttributeExam\AttributeExam\obj\Debug\net6.0\ref\AttributeExam.dll

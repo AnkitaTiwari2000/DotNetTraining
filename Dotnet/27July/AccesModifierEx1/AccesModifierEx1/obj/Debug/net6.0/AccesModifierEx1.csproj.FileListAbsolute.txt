@@ -1,0 +1,15 @@
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\bin\Debug\net6.0\AccesModifierEx1.exe
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\bin\Debug\net6.0\AccesModifierEx1.deps.json
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\bin\Debug\net6.0\AccesModifierEx1.runtimeconfig.json
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\bin\Debug\net6.0\AccesModifierEx1.dll
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\bin\Debug\net6.0\AccesModifierEx1.pdb
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\obj\Debug\net6.0\AccesModifierEx1.csproj.AssemblyReference.cache
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\obj\Debug\net6.0\AccesModifierEx1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\obj\Debug\net6.0\AccesModifierEx1.AssemblyInfoInputs.cache
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\obj\Debug\net6.0\AccesModifierEx1.AssemblyInfo.cs
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\obj\Debug\net6.0\AccesModifierEx1.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\obj\Debug\net6.0\AccesModifierEx1.dll
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\obj\Debug\net6.0\refint\AccesModifierEx1.dll
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\obj\Debug\net6.0\AccesModifierEx1.pdb
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\obj\Debug\net6.0\AccesModifierEx1.genruntimeconfig.cache
+E:\Dotnet\27July\AccesModifierEx1\AccesModifierEx1\obj\Debug\net6.0\ref\AccesModifierEx1.dll

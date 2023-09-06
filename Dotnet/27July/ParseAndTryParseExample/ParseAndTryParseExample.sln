@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseAndTryParseExample", "ParseAndTryParseExample\ParseAndTryParseExample.csproj", "{8ADD845A-9523-4AB1-80C9-9DAA81C549D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ADD845A-9523-4AB1-80C9-9DAA81C549D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADD845A-9523-4AB1-80C9-9DAA81C549D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADD845A-9523-4AB1-80C9-9DAA81C549D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADD845A-9523-4AB1-80C9-9DAA81C549D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01AE4610-797E-41D0-92C9-096AE0F169C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\bin\Debug\net6.0\DelegateCalsulater.exe
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\bin\Debug\net6.0\DelegateCalsulater.deps.json
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\bin\Debug\net6.0\DelegateCalsulater.runtimeconfig.json
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\bin\Debug\net6.0\DelegateCalsulater.dll
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\bin\Debug\net6.0\DelegateCalsulater.pdb
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\obj\Debug\net6.0\DelegateCalsulater.csproj.AssemblyReference.cache
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\obj\Debug\net6.0\DelegateCalsulater.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\obj\Debug\net6.0\DelegateCalsulater.AssemblyInfoInputs.cache
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\obj\Debug\net6.0\DelegateCalsulater.AssemblyInfo.cs
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\obj\Debug\net6.0\DelegateCalsulater.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\obj\Debug\net6.0\DelegateCalsulater.dll
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\obj\Debug\net6.0\refint\DelegateCalsulater.dll
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\obj\Debug\net6.0\DelegateCalsulater.pdb
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\obj\Debug\net6.0\DelegateCalsulater.genruntimeconfig.cache
+E:\Dotnet\27July\DelegateCalsulater\DelegateCalsulater\obj\Debug\net6.0\ref\DelegateCalsulater.dll

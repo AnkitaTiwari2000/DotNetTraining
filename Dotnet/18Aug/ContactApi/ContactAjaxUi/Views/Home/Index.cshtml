@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+<script src="/js/code.jquery.com_jquery-3.7.0.js"> </script>
+<h1>Index</h1>
+@section Scripts{
+    <script>
+        $(document).ready(function() {
+             $.ajax({
+                url: "https://localhost:7238/api/Contact/GetContacts",
+                type: 'GET',
+                success: function(res) {
+                    console.log(res);
+                }
+            });
+        });
+    </script>
+}

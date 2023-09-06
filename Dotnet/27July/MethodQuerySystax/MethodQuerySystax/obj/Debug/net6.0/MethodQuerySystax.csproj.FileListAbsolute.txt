@@ -1,0 +1,15 @@
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\bin\Debug\net6.0\MethodQuerySystax.exe
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\bin\Debug\net6.0\MethodQuerySystax.deps.json
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\bin\Debug\net6.0\MethodQuerySystax.runtimeconfig.json
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\bin\Debug\net6.0\MethodQuerySystax.dll
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\bin\Debug\net6.0\MethodQuerySystax.pdb
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\obj\Debug\net6.0\MethodQuerySystax.csproj.AssemblyReference.cache
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\obj\Debug\net6.0\MethodQuerySystax.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\obj\Debug\net6.0\MethodQuerySystax.AssemblyInfoInputs.cache
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\obj\Debug\net6.0\MethodQuerySystax.AssemblyInfo.cs
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\obj\Debug\net6.0\MethodQuerySystax.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\obj\Debug\net6.0\MethodQuerySystax.dll
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\obj\Debug\net6.0\refint\MethodQuerySystax.dll
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\obj\Debug\net6.0\MethodQuerySystax.pdb
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\obj\Debug\net6.0\MethodQuerySystax.genruntimeconfig.cache
+E:\Dotnet\27July\MethodQuerySystax\MethodQuerySystax\obj\Debug\net6.0\ref\MethodQuerySystax.dll

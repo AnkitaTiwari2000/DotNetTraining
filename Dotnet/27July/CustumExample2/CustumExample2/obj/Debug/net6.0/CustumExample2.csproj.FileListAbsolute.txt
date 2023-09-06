@@ -1,0 +1,15 @@
+E:\Dotnet\27July\CustumExample2\CustumExample2\bin\Debug\net6.0\CustumExample2.exe
+E:\Dotnet\27July\CustumExample2\CustumExample2\bin\Debug\net6.0\CustumExample2.deps.json
+E:\Dotnet\27July\CustumExample2\CustumExample2\bin\Debug\net6.0\CustumExample2.runtimeconfig.json
+E:\Dotnet\27July\CustumExample2\CustumExample2\bin\Debug\net6.0\CustumExample2.dll
+E:\Dotnet\27July\CustumExample2\CustumExample2\bin\Debug\net6.0\CustumExample2.pdb
+E:\Dotnet\27July\CustumExample2\CustumExample2\obj\Debug\net6.0\CustumExample2.csproj.AssemblyReference.cache
+E:\Dotnet\27July\CustumExample2\CustumExample2\obj\Debug\net6.0\CustumExample2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\CustumExample2\CustumExample2\obj\Debug\net6.0\CustumExample2.AssemblyInfoInputs.cache
+E:\Dotnet\27July\CustumExample2\CustumExample2\obj\Debug\net6.0\CustumExample2.AssemblyInfo.cs
+E:\Dotnet\27July\CustumExample2\CustumExample2\obj\Debug\net6.0\CustumExample2.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\CustumExample2\CustumExample2\obj\Debug\net6.0\CustumExample2.dll
+E:\Dotnet\27July\CustumExample2\CustumExample2\obj\Debug\net6.0\refint\CustumExample2.dll
+E:\Dotnet\27July\CustumExample2\CustumExample2\obj\Debug\net6.0\CustumExample2.pdb
+E:\Dotnet\27July\CustumExample2\CustumExample2\obj\Debug\net6.0\CustumExample2.genruntimeconfig.cache
+E:\Dotnet\27July\CustumExample2\CustumExample2\obj\Debug\net6.0\ref\CustumExample2.dll

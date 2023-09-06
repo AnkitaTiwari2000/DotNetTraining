@@ -1,0 +1,15 @@
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\bin\Debug\net6.0\ReflactionExample.exe
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\bin\Debug\net6.0\ReflactionExample.deps.json
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\bin\Debug\net6.0\ReflactionExample.runtimeconfig.json
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\bin\Debug\net6.0\ReflactionExample.dll
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\bin\Debug\net6.0\ReflactionExample.pdb
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\obj\Debug\net6.0\ReflactionExample.csproj.AssemblyReference.cache
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\obj\Debug\net6.0\ReflactionExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\obj\Debug\net6.0\ReflactionExample.AssemblyInfoInputs.cache
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\obj\Debug\net6.0\ReflactionExample.AssemblyInfo.cs
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\obj\Debug\net6.0\ReflactionExample.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\obj\Debug\net6.0\ReflactionExample.dll
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\obj\Debug\net6.0\refint\ReflactionExample.dll
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\obj\Debug\net6.0\ReflactionExample.pdb
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\obj\Debug\net6.0\ReflactionExample.genruntimeconfig.cache
+E:\Dotnet\27July\ReflactionExample\ReflactionExample\obj\Debug\net6.0\ref\ReflactionExample.dll

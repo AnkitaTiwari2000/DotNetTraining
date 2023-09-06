@@ -1,0 +1,15 @@
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\bin\Debug\net6.0\ReferencePassingExample.exe
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\bin\Debug\net6.0\ReferencePassingExample.deps.json
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\bin\Debug\net6.0\ReferencePassingExample.runtimeconfig.json
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\bin\Debug\net6.0\ReferencePassingExample.dll
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\bin\Debug\net6.0\ReferencePassingExample.pdb
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\obj\Debug\net6.0\ReferencePassingExample.csproj.AssemblyReference.cache
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\obj\Debug\net6.0\ReferencePassingExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\obj\Debug\net6.0\ReferencePassingExample.AssemblyInfoInputs.cache
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\obj\Debug\net6.0\ReferencePassingExample.AssemblyInfo.cs
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\obj\Debug\net6.0\ReferencePassingExample.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\obj\Debug\net6.0\ReferencePassingExample.dll
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\obj\Debug\net6.0\refint\ReferencePassingExample.dll
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\obj\Debug\net6.0\ReferencePassingExample.pdb
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\obj\Debug\net6.0\ReferencePassingExample.genruntimeconfig.cache
+E:\Dotnet\27July\ReferencePassingExample\ReferencePassingExample\obj\Debug\net6.0\ref\ReferencePassingExample.dll

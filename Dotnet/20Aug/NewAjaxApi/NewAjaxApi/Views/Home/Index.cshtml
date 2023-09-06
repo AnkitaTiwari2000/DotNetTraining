@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+<script src="/lib/jquery/dist/jquery.min.js"></script>
+
+<h1>Index</h1>
+
+<div>
+    <div>
+    <h2>Id</h2> --  <h2 id="psmId"></h2>
+    <h2>Name</h2> -- <h2 id="psmName"></h2>
+     <h2>Descr</h2> -- <h2 id="psmDescr"></h2>
+    <h2>Price</h2> -- <h2 id="psmPrice"></h2>
+</div>
+<input type="button" onclick="BtnClick()" value="Click Me"/>
+</div>
+<script>
+function BtnClick() {
+    $.ajax({
+        url: "/Home/GetProduct",
+
+        method: 'GET',
+        datatype:"html",
+        success: function (data) {
+
+               
+           var data1=JSON.parse(JSON.stringify(data));
+                console.log(data);
+               
+                $("#psmId").html( "<span>"+data1.Id+"</span>");
+                $("#psmName").html("<span>"+data1.Name+"</span>");
+                $("#psmDescr").html("<span>"+data1.Descr+"</span>");
+                $("#psmPrice").html("<span>"+data1.Price+"</span>");
+            
+
+        },
+        error: function (ex) {
+            console.error(ex);
+        }
+    });
+}
+</script>

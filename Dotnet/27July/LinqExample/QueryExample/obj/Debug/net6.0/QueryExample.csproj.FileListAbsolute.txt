@@ -1,0 +1,15 @@
+E:\Dotnet\27July\LinqExample\QueryExample\bin\Debug\net6.0\QueryExample.exe
+E:\Dotnet\27July\LinqExample\QueryExample\bin\Debug\net6.0\QueryExample.deps.json
+E:\Dotnet\27July\LinqExample\QueryExample\bin\Debug\net6.0\QueryExample.runtimeconfig.json
+E:\Dotnet\27July\LinqExample\QueryExample\bin\Debug\net6.0\QueryExample.dll
+E:\Dotnet\27July\LinqExample\QueryExample\bin\Debug\net6.0\QueryExample.pdb
+E:\Dotnet\27July\LinqExample\QueryExample\obj\Debug\net6.0\QueryExample.csproj.AssemblyReference.cache
+E:\Dotnet\27July\LinqExample\QueryExample\obj\Debug\net6.0\QueryExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\LinqExample\QueryExample\obj\Debug\net6.0\QueryExample.AssemblyInfoInputs.cache
+E:\Dotnet\27July\LinqExample\QueryExample\obj\Debug\net6.0\QueryExample.AssemblyInfo.cs
+E:\Dotnet\27July\LinqExample\QueryExample\obj\Debug\net6.0\QueryExample.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\LinqExample\QueryExample\obj\Debug\net6.0\QueryExample.dll
+E:\Dotnet\27July\LinqExample\QueryExample\obj\Debug\net6.0\refint\QueryExample.dll
+E:\Dotnet\27July\LinqExample\QueryExample\obj\Debug\net6.0\QueryExample.pdb
+E:\Dotnet\27July\LinqExample\QueryExample\obj\Debug\net6.0\QueryExample.genruntimeconfig.cache
+E:\Dotnet\27July\LinqExample\QueryExample\obj\Debug\net6.0\ref\QueryExample.dll

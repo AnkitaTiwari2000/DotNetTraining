@@ -1,0 +1,15 @@
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\bin\Debug\net6.0\ReferenceAndValueTypeExample.exe
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\bin\Debug\net6.0\ReferenceAndValueTypeExample.deps.json
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\bin\Debug\net6.0\ReferenceAndValueTypeExample.runtimeconfig.json
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\bin\Debug\net6.0\ReferenceAndValueTypeExample.dll
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\bin\Debug\net6.0\ReferenceAndValueTypeExample.pdb
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\obj\Debug\net6.0\ReferenceAndValueTypeExample.csproj.AssemblyReference.cache
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\obj\Debug\net6.0\ReferenceAndValueTypeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\obj\Debug\net6.0\ReferenceAndValueTypeExample.AssemblyInfoInputs.cache
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\obj\Debug\net6.0\ReferenceAndValueTypeExample.AssemblyInfo.cs
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\obj\Debug\net6.0\ReferenceAndValueTypeExample.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\obj\Debug\net6.0\ReferenceAndValueTypeExample.dll
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\obj\Debug\net6.0\refint\ReferenceAndValueTypeExample.dll
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\obj\Debug\net6.0\ReferenceAndValueTypeExample.pdb
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\obj\Debug\net6.0\ReferenceAndValueTypeExample.genruntimeconfig.cache
+E:\Dotnet\27July\ReferenceAndValueTypeExample\ReferenceAndValueTypeExample\obj\Debug\net6.0\ref\ReferenceAndValueTypeExample.dll

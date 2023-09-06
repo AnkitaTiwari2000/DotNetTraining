@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kitaIbmRgcXRSSi9sHrXxBe2ItfbmRZNUPkGbqs10uafRD6G1C4Lk8GhBezRITZlBO2LTgsc09xOjhB4TzbyPg==",
+  "success": true,
+  "projectFilePath": "E:\\Dotnet\\27July\\EnumExample1\\EnumExample1\\EnumExample1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

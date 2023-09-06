@@ -1,0 +1,6 @@
+E:\Dotnet\27July\DemoForEntityExample\MyApp.Model\bin\Debug\MyApp.Model.dll
+E:\Dotnet\27July\DemoForEntityExample\MyApp.Model\bin\Debug\MyApp.Model.pdb
+E:\Dotnet\27July\DemoForEntityExample\MyApp.Model\obj\Debug\MyApp.Model.csproj.AssemblyReference.cache
+E:\Dotnet\27July\DemoForEntityExample\MyApp.Model\obj\Debug\MyApp.Model.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\DemoForEntityExample\MyApp.Model\obj\Debug\MyApp.Model.dll
+E:\Dotnet\27July\DemoForEntityExample\MyApp.Model\obj\Debug\MyApp.Model.pdb

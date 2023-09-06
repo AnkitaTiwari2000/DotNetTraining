@@ -1,0 +1,15 @@
+E:\Dotnet\26july\Enacp\Enacp\bin\Debug\net6.0\Enacp.exe
+E:\Dotnet\26july\Enacp\Enacp\bin\Debug\net6.0\Enacp.deps.json
+E:\Dotnet\26july\Enacp\Enacp\bin\Debug\net6.0\Enacp.runtimeconfig.json
+E:\Dotnet\26july\Enacp\Enacp\bin\Debug\net6.0\Enacp.dll
+E:\Dotnet\26july\Enacp\Enacp\bin\Debug\net6.0\Enacp.pdb
+E:\Dotnet\26july\Enacp\Enacp\obj\Debug\net6.0\Enacp.csproj.AssemblyReference.cache
+E:\Dotnet\26july\Enacp\Enacp\obj\Debug\net6.0\Enacp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\26july\Enacp\Enacp\obj\Debug\net6.0\Enacp.AssemblyInfoInputs.cache
+E:\Dotnet\26july\Enacp\Enacp\obj\Debug\net6.0\Enacp.AssemblyInfo.cs
+E:\Dotnet\26july\Enacp\Enacp\obj\Debug\net6.0\Enacp.csproj.CoreCompileInputs.cache
+E:\Dotnet\26july\Enacp\Enacp\obj\Debug\net6.0\Enacp.dll
+E:\Dotnet\26july\Enacp\Enacp\obj\Debug\net6.0\refint\Enacp.dll
+E:\Dotnet\26july\Enacp\Enacp\obj\Debug\net6.0\Enacp.pdb
+E:\Dotnet\26july\Enacp\Enacp\obj\Debug\net6.0\Enacp.genruntimeconfig.cache
+E:\Dotnet\26july\Enacp\Enacp\obj\Debug\net6.0\ref\Enacp.dll

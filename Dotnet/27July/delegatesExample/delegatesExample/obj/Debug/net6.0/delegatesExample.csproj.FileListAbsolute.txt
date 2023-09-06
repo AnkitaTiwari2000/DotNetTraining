@@ -1,0 +1,15 @@
+E:\Dotnet\27July\delegatesExample\delegatesExample\bin\Debug\net6.0\delegatesExample.exe
+E:\Dotnet\27July\delegatesExample\delegatesExample\bin\Debug\net6.0\delegatesExample.deps.json
+E:\Dotnet\27July\delegatesExample\delegatesExample\bin\Debug\net6.0\delegatesExample.runtimeconfig.json
+E:\Dotnet\27July\delegatesExample\delegatesExample\bin\Debug\net6.0\delegatesExample.dll
+E:\Dotnet\27July\delegatesExample\delegatesExample\bin\Debug\net6.0\delegatesExample.pdb
+E:\Dotnet\27July\delegatesExample\delegatesExample\obj\Debug\net6.0\delegatesExample.csproj.AssemblyReference.cache
+E:\Dotnet\27July\delegatesExample\delegatesExample\obj\Debug\net6.0\delegatesExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\delegatesExample\delegatesExample\obj\Debug\net6.0\delegatesExample.AssemblyInfoInputs.cache
+E:\Dotnet\27July\delegatesExample\delegatesExample\obj\Debug\net6.0\delegatesExample.AssemblyInfo.cs
+E:\Dotnet\27July\delegatesExample\delegatesExample\obj\Debug\net6.0\delegatesExample.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\delegatesExample\delegatesExample\obj\Debug\net6.0\delegatesExample.dll
+E:\Dotnet\27July\delegatesExample\delegatesExample\obj\Debug\net6.0\refint\delegatesExample.dll
+E:\Dotnet\27July\delegatesExample\delegatesExample\obj\Debug\net6.0\delegatesExample.pdb
+E:\Dotnet\27July\delegatesExample\delegatesExample\obj\Debug\net6.0\delegatesExample.genruntimeconfig.cache
+E:\Dotnet\27July\delegatesExample\delegatesExample\obj\Debug\net6.0\ref\delegatesExample.dll

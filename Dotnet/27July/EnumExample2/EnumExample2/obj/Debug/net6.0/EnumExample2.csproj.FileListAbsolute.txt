@@ -1,0 +1,15 @@
+E:\Dotnet\27July\EnumExample2\EnumExample2\bin\Debug\net6.0\EnumExample2.exe
+E:\Dotnet\27July\EnumExample2\EnumExample2\bin\Debug\net6.0\EnumExample2.deps.json
+E:\Dotnet\27July\EnumExample2\EnumExample2\bin\Debug\net6.0\EnumExample2.runtimeconfig.json
+E:\Dotnet\27July\EnumExample2\EnumExample2\bin\Debug\net6.0\EnumExample2.dll
+E:\Dotnet\27July\EnumExample2\EnumExample2\bin\Debug\net6.0\EnumExample2.pdb
+E:\Dotnet\27July\EnumExample2\EnumExample2\obj\Debug\net6.0\EnumExample2.csproj.AssemblyReference.cache
+E:\Dotnet\27July\EnumExample2\EnumExample2\obj\Debug\net6.0\EnumExample2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\EnumExample2\EnumExample2\obj\Debug\net6.0\EnumExample2.AssemblyInfoInputs.cache
+E:\Dotnet\27July\EnumExample2\EnumExample2\obj\Debug\net6.0\EnumExample2.AssemblyInfo.cs
+E:\Dotnet\27July\EnumExample2\EnumExample2\obj\Debug\net6.0\EnumExample2.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\EnumExample2\EnumExample2\obj\Debug\net6.0\EnumExample2.dll
+E:\Dotnet\27July\EnumExample2\EnumExample2\obj\Debug\net6.0\refint\EnumExample2.dll
+E:\Dotnet\27July\EnumExample2\EnumExample2\obj\Debug\net6.0\EnumExample2.pdb
+E:\Dotnet\27July\EnumExample2\EnumExample2\obj\Debug\net6.0\EnumExample2.genruntimeconfig.cache
+E:\Dotnet\27July\EnumExample2\EnumExample2\obj\Debug\net6.0\ref\EnumExample2.dll

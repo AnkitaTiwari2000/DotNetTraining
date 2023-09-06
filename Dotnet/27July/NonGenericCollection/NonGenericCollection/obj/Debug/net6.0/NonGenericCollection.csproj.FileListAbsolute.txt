@@ -1,0 +1,15 @@
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\bin\Debug\net6.0\NonGenericCollection.exe
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\bin\Debug\net6.0\NonGenericCollection.deps.json
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\bin\Debug\net6.0\NonGenericCollection.runtimeconfig.json
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\bin\Debug\net6.0\NonGenericCollection.dll
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\bin\Debug\net6.0\NonGenericCollection.pdb
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\obj\Debug\net6.0\NonGenericCollection.csproj.AssemblyReference.cache
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\obj\Debug\net6.0\NonGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\obj\Debug\net6.0\NonGenericCollection.AssemblyInfoInputs.cache
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\obj\Debug\net6.0\NonGenericCollection.AssemblyInfo.cs
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\obj\Debug\net6.0\NonGenericCollection.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\obj\Debug\net6.0\NonGenericCollection.dll
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\obj\Debug\net6.0\refint\NonGenericCollection.dll
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\obj\Debug\net6.0\NonGenericCollection.pdb
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\obj\Debug\net6.0\NonGenericCollection.genruntimeconfig.cache
+E:\Dotnet\27July\NonGenericCollection\NonGenericCollection\obj\Debug\net6.0\ref\NonGenericCollection.dll

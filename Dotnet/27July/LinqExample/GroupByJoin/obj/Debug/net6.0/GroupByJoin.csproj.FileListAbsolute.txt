@@ -1,0 +1,15 @@
+E:\Dotnet\27July\LinqExample\GroupByJoin\bin\Debug\net6.0\GroupByJoin.exe
+E:\Dotnet\27July\LinqExample\GroupByJoin\bin\Debug\net6.0\GroupByJoin.deps.json
+E:\Dotnet\27July\LinqExample\GroupByJoin\bin\Debug\net6.0\GroupByJoin.runtimeconfig.json
+E:\Dotnet\27July\LinqExample\GroupByJoin\bin\Debug\net6.0\GroupByJoin.dll
+E:\Dotnet\27July\LinqExample\GroupByJoin\bin\Debug\net6.0\GroupByJoin.pdb
+E:\Dotnet\27July\LinqExample\GroupByJoin\obj\Debug\net6.0\GroupByJoin.csproj.AssemblyReference.cache
+E:\Dotnet\27July\LinqExample\GroupByJoin\obj\Debug\net6.0\GroupByJoin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\LinqExample\GroupByJoin\obj\Debug\net6.0\GroupByJoin.AssemblyInfoInputs.cache
+E:\Dotnet\27July\LinqExample\GroupByJoin\obj\Debug\net6.0\GroupByJoin.AssemblyInfo.cs
+E:\Dotnet\27July\LinqExample\GroupByJoin\obj\Debug\net6.0\GroupByJoin.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\LinqExample\GroupByJoin\obj\Debug\net6.0\GroupByJoin.dll
+E:\Dotnet\27July\LinqExample\GroupByJoin\obj\Debug\net6.0\refint\GroupByJoin.dll
+E:\Dotnet\27July\LinqExample\GroupByJoin\obj\Debug\net6.0\GroupByJoin.pdb
+E:\Dotnet\27July\LinqExample\GroupByJoin\obj\Debug\net6.0\GroupByJoin.genruntimeconfig.cache
+E:\Dotnet\27July\LinqExample\GroupByJoin\obj\Debug\net6.0\ref\GroupByJoin.dll

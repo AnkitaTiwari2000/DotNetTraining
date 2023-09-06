@@ -1,0 +1,15 @@
+E:\Dotnet\27July\Custom class 3\Custom class 3\bin\Debug\net6.0\Custom class 3.exe
+E:\Dotnet\27July\Custom class 3\Custom class 3\bin\Debug\net6.0\Custom class 3.deps.json
+E:\Dotnet\27July\Custom class 3\Custom class 3\bin\Debug\net6.0\Custom class 3.runtimeconfig.json
+E:\Dotnet\27July\Custom class 3\Custom class 3\bin\Debug\net6.0\Custom class 3.dll
+E:\Dotnet\27July\Custom class 3\Custom class 3\bin\Debug\net6.0\Custom class 3.pdb
+E:\Dotnet\27July\Custom class 3\Custom class 3\obj\Debug\net6.0\Custom class 3.csproj.AssemblyReference.cache
+E:\Dotnet\27July\Custom class 3\Custom class 3\obj\Debug\net6.0\Custom class 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\Custom class 3\Custom class 3\obj\Debug\net6.0\Custom class 3.AssemblyInfoInputs.cache
+E:\Dotnet\27July\Custom class 3\Custom class 3\obj\Debug\net6.0\Custom class 3.AssemblyInfo.cs
+E:\Dotnet\27July\Custom class 3\Custom class 3\obj\Debug\net6.0\Custom class 3.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\Custom class 3\Custom class 3\obj\Debug\net6.0\Custom class 3.dll
+E:\Dotnet\27July\Custom class 3\Custom class 3\obj\Debug\net6.0\refint\Custom class 3.dll
+E:\Dotnet\27July\Custom class 3\Custom class 3\obj\Debug\net6.0\Custom class 3.pdb
+E:\Dotnet\27July\Custom class 3\Custom class 3\obj\Debug\net6.0\Custom class 3.genruntimeconfig.cache
+E:\Dotnet\27July\Custom class 3\Custom class 3\obj\Debug\net6.0\ref\Custom class 3.dll

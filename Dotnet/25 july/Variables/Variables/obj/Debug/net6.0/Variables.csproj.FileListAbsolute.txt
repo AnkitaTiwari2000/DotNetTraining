@@ -1,0 +1,15 @@
+E:\Dotnet\25 july\Variables\Variables\bin\Debug\net6.0\Variables.exe
+E:\Dotnet\25 july\Variables\Variables\bin\Debug\net6.0\Variables.deps.json
+E:\Dotnet\25 july\Variables\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+E:\Dotnet\25 july\Variables\Variables\bin\Debug\net6.0\Variables.dll
+E:\Dotnet\25 july\Variables\Variables\bin\Debug\net6.0\Variables.pdb
+E:\Dotnet\25 july\Variables\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+E:\Dotnet\25 july\Variables\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\25 july\Variables\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+E:\Dotnet\25 july\Variables\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+E:\Dotnet\25 july\Variables\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+E:\Dotnet\25 july\Variables\Variables\obj\Debug\net6.0\Variables.dll
+E:\Dotnet\25 july\Variables\Variables\obj\Debug\net6.0\refint\Variables.dll
+E:\Dotnet\25 july\Variables\Variables\obj\Debug\net6.0\Variables.pdb
+E:\Dotnet\25 july\Variables\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+E:\Dotnet\25 july\Variables\Variables\obj\Debug\net6.0\ref\Variables.dll

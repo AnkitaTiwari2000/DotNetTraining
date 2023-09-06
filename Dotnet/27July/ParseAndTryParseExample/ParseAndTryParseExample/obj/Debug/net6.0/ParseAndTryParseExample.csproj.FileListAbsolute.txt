@@ -1,0 +1,15 @@
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\bin\Debug\net6.0\ParseAndTryParseExample.exe
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\bin\Debug\net6.0\ParseAndTryParseExample.deps.json
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\bin\Debug\net6.0\ParseAndTryParseExample.runtimeconfig.json
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\bin\Debug\net6.0\ParseAndTryParseExample.dll
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\bin\Debug\net6.0\ParseAndTryParseExample.pdb
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\obj\Debug\net6.0\ParseAndTryParseExample.csproj.AssemblyReference.cache
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\obj\Debug\net6.0\ParseAndTryParseExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\obj\Debug\net6.0\ParseAndTryParseExample.AssemblyInfoInputs.cache
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\obj\Debug\net6.0\ParseAndTryParseExample.AssemblyInfo.cs
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\obj\Debug\net6.0\ParseAndTryParseExample.csproj.CoreCompileInputs.cache
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\obj\Debug\net6.0\ParseAndTryParseExample.dll
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\obj\Debug\net6.0\refint\ParseAndTryParseExample.dll
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\obj\Debug\net6.0\ParseAndTryParseExample.pdb
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\obj\Debug\net6.0\ParseAndTryParseExample.genruntimeconfig.cache
+E:\Dotnet\27July\ParseAndTryParseExample\ParseAndTryParseExample\obj\Debug\net6.0\ref\ParseAndTryParseExample.dll
